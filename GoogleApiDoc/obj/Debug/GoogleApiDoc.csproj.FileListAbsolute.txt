@@ -1,0 +1,9 @@
+c:\Users\pc-rzn.ru\Dropbox\ПК\Documents\GitHub\GoogleApiDoc\bin\Debug\GoogleApiDoc.exe.config
+c:\Users\pc-rzn.ru\Dropbox\ПК\Documents\GitHub\GoogleApiDoc\bin\Debug\GoogleApiDoc.exe
+c:\Users\pc-rzn.ru\Dropbox\ПК\Documents\GitHub\GoogleApiDoc\bin\Debug\GoogleApiDoc.pdb
+c:\Users\pc-rzn.ru\Dropbox\ПК\Documents\GitHub\GoogleApiDoc\obj\Debug\GoogleApiDoc.csproj.AssemblyReference.cache
+c:\Users\pc-rzn.ru\Dropbox\ПК\Documents\GitHub\GoogleApiDoc\obj\Debug\GoogleApiDoc.csproj.SuggestedBindingRedirects.cache
+c:\Users\pc-rzn.ru\Dropbox\ПК\Documents\GitHub\GoogleApiDoc\obj\Debug\GoogleApiDoc.csproj.ResolveComReference.cache
+c:\Users\pc-rzn.ru\Dropbox\ПК\Documents\GitHub\GoogleApiDoc\obj\Debug\GoogleApiDoc.csproj.CoreCompileInputs.cache
+c:\Users\pc-rzn.ru\Dropbox\ПК\Documents\GitHub\GoogleApiDoc\obj\Debug\GoogleApiDoc.exe
+c:\Users\pc-rzn.ru\Dropbox\ПК\Documents\GitHub\GoogleApiDoc\obj\Debug\GoogleApiDoc.pdb
